@@ -1,0 +1,24 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/empyema-or-pyothorax-or-purulent-pleuritis-secondary-care-fistula---secondary.py
+inputModule3:
+  class: File
+  path: python/empyema---secondary.py
+inputModule4:
+  class: File
+  path: python/empyema-or-pyothorax-or-purulent-pleuritis-secondary-care-confirmation---secondary.py
+inputModule5:
+  class: File
+  path: python/empyema-or-pyothorax-or-purulent-pleuritis-secondary-care-confirmed---secondary.py
+inputModule6:
+  class: File
+  path: python/pyothorax---secondary.py
+inputModule7:
+  class: File
+  path: python/output-cases.py
